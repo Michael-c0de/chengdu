@@ -7,5 +7,6 @@ permalink: /links/
 ---
 
 <ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
+<li><a href="http://xherlock.top//">大学舍友</a></li>
 </ul>
+

@@ -6,18 +6,14 @@ keywords: Zhuang Ma, 马壮
 permalink: /about/
 ---
 
-**Software Engineer at [Sogou, Inc.](http://www.sogou.com)**
+**student major in CS**
 
-Beijing City, China \| Computer Software
-  
-*Education:* Wuhan Institute of Technology
+Chengdu City, China \| SCU
 
-scholar, CS/IT
+*E-mail:* yjl2002@stu.scu.edu.cn
 
-*Contact:* `print '%s@%s' % ('ChumpMa', 'gmail.com')  #via Python`
+*QQ*:1679556937
 
-*Social:*  [github](http://github.com/mzlogin) \| [linkedin](http://www.linkedin.com/in/mazhuang) \| [weibo](http://weibo.com/mzlogin) \| [douban](http://www.douban.com/people/freedim/) \| [blog](http://mazhuang.org)
-    
 ```c++
 #include <iostream>
 int main()
