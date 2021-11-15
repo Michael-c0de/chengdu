@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://mazhuang.org/jekyll-theme-solid
+url: https://michael-c0de.github.io/chengdu/
 date_format: "ordinal"
 title: jekyll-theme-solid
 author: Zhuang Ma 
