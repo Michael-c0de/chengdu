@@ -4,8 +4,8 @@
 baseurl: 
 url: https://michael-c0de.github.io/chengdu/
 date_format: "ordinal"
-title: jekyll-theme-solid
-author: Zhuang Ma 
+title: blog
+author: YAO
 
 # ---------------- #
 #   RSS / Email    #
@@ -40,19 +40,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: yao_scu
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: jekyll-theme-solid
+    owner: Michael-c0de
+    repo: chengdu
     oauth:
-        client_id: d2e1cbbd298958076462
+        client_id: e4b60b90547bbec301cf
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: jekyll-theme-solid
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: Michael-c0de
+    repo: chengdu
+    clientID: e4b60b90547bbec301cf
+    clientSecret: bb2602ce709b3d66744d544e7dd3a73bf236d804
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
