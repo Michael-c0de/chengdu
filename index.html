@@ -1,25 +1,15 @@
 ---
-layout: home-page
+layout: default
+description: Zhuang Ma's Blog
+keywords: Zhuang Ma, 马壮, mzlogin, mazhuang
 ---
-{% include calculate_relative_base.html %}
 
-<ol class="post-card-box clearfix">
-  {% for post in paginator.posts %}
-  {% include remove_double_slash.html %}
-  <li>
-    <div class="post-card">
-      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
-      </a>
-      <div class="post-card-body">
-        <p class="post-card-title-and-meta">
-          
-          <a href="{{ post_url }}" class="post-card-link">
-          {{ post.title }}
-          </a>
-          {% include post_meta.html type="post-card-meta" date="none" %}
-        </p>
-      </div>
+<div class="postlist">
+    {% for post in paginator.posts %}
+    <div class="overview">
+        <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
+        <div class="detail"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></div>
     </div>
-  </li>
-  {% endfor %}
-</ol>
+    {% endfor %}
+</div>
+{% include pagination.html %}
