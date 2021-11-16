@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 二叉树操作设计和实现实验
-categories: Data Structure
+categories: [Data Structure]
 description: 二叉树基本操作
 keywords: DFS, BFS, 递归
 ---
