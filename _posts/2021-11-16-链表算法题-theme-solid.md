@@ -1,3 +1,11 @@
+---
+layout: post
+title: 链表基本操作
+categories: LeetCode
+description: 力扣刷题笔记1
+keywords: 链表
+---
+
 # 1.链表逆转
 
 ## 源码
@@ -38,7 +46,7 @@ p1、p2、p3指针分别指向正向链表中连续的三个节点，然后让p2
 
 ## 运行截图
 
-![test1](E:\2021autumn\Data Struction\国庆作业\test1.PNG)
+![test1](\2021-11-16-链表算法题-theme-solid\test1.PNG)
 
 # 2.整数相加
 
@@ -130,7 +138,7 @@ List ReverseList(struct ListNode* head){
 
 ## 运行截图
 
-![test2](E:\2021autumn\Data Struction\国庆作业\test2.PNG)
+![test2](\2021-11-16-链表算法题-theme-solid\test2.PNG)
 
 # 3.删除倒序节点
 
@@ -183,7 +191,7 @@ List getPre( List list, List node ){
 
 ## 运行截图
 
-![test3](E:\2021autumn\Data Struction\国庆作业\test3.PNG)
+![test3](\2021-11-16-链表算法题-theme-solid\test3.PNG)
 
 原链表为1，2，3，4，5；删除倒数第5个节点后的链表为2，3，4，5。
 
@@ -232,7 +240,7 @@ last->val != last->next->val
 
 ## 运行截图
 
-![test4](E:\2021autumn\Data Struction\国庆作业\test4.PNG)
+![test4](\2021-11-16-链表算法题-theme-solid\test4.PNG)
 
 # 5.合并链表数组
 
@@ -304,7 +312,7 @@ struct ListNode* mergeKLists(struct ListNode** lists, int listsSize){
 
 ## 运行截图
 
-![test5](E:\2021autumn\Data Struction\国庆作业\test5.PNG)
+![test5](\2021-11-16-链表算法题-theme-solid\test5.PNG)
 
 # 6.实现跳表
 
@@ -484,7 +492,7 @@ void skiplistFree(Skiplist* obj) {
 
 ## 运行截图
 
-![test6](E:\2021autumn\Data Struction\国庆作业\test6.PNG)
+![test6](\2021-11-16-链表算法题-theme-solid\test6.PNG)
 
  
 
