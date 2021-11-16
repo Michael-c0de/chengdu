@@ -4,7 +4,6 @@ title: 链表基本操作
 categories: LeetCode
 description: 力扣刷题笔记1
 keywords: 链表
-typora-root-url: ..
 ---
 
 # 1.链表逆转
@@ -47,7 +46,7 @@ p1、p2、p3指针分别指向正向链表中连续的三个节点，然后让p2
 
 ## 运行截图
 
-![test1](/images/upload2/test1.PNG)
+![test1]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test1.PNG))
 
 # 2.整数相加
 
@@ -139,7 +138,7 @@ List ReverseList(struct ListNode* head){
 
 ## 运行截图
 
-![test2](/images/upload2/test2.PNG)
+![test2]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test2.PNG))
 
 # 3.删除倒序节点
 
@@ -192,7 +191,7 @@ List getPre( List list, List node ){
 
 ## 运行截图
 
-![test3](/images/upload2/test3.PNG)
+![test3]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test3.PNG))
 
 # 4.删除重复单元
 
@@ -239,7 +238,7 @@ last->val != last->next->val
 
 ## 运行截图
 
-![test4](/images/upload2/test4.PNG)
+![test4]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test4.PNG))
 
 # 5.合并链表数组
 
@@ -311,7 +310,7 @@ struct ListNode* mergeKLists(struct ListNode** lists, int listsSize){
 
 ## 运行截图
 
-![test5](/images/upload2/test5.PNG)
+![test5]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test5.PNG))
 
 # 6.实现跳表
 
@@ -491,8 +490,8 @@ void skiplistFree(Skiplist* obj) {
 
 ## 运行截图
 
- ![test6](/images/upload2/test6.PNG)
+ ![test6]([test1.PNG (1010×182) (michael-c0de.github.io)](https://michael-c0de.github.io/chengdu/images/upload2/test6.PNG))
 
 下载：
 
- [code.rar](..\images\upload2\code.rar) 
+ [code.rar](https://michael-c0de.github.io/chengdu/images/upload2/code.rar) 
