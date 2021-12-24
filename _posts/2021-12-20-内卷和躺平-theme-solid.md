@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 内卷和躺平之间
-categories: LeetCode
+categories: diray
 description: 21-12-25
 keywords: 内卷，躺平
 ---
