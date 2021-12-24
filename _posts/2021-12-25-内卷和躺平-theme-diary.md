@@ -1,3 +1,13 @@
+---
+layout: post
+title: 内卷和躺平之间
+categories: diary
+description: 21/12/25
+keywords: 内卷
+---
+
+
+
 # 内卷和躺平之间
 
 内卷是不是真问题？这本来就是个问题。要聊的第一个问题是，内卷本身有没有问题？
