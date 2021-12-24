@@ -3,7 +3,7 @@ layout: post
 title: 内卷和躺平之间
 categories: Diary
 description: 21-12-25
-keywords: 内卷
+keywords: 内卷，躺平
 ---
 
 # 内卷和躺平之间
