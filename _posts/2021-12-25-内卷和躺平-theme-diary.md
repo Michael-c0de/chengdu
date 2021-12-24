@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 内卷和躺平之间
-categories: diary
-description: 21/12/25
+categories: Diary
+description: 21-12-25
 keywords: 内卷
 ---
 
